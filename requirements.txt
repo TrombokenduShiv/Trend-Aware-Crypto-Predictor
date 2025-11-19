@@ -1,0 +1,11 @@
+pandas
+numpy
+scikit-learn
+lightgbm
+xgboost
+matplotlib
+mplfinance
+joblib
+praw
+requests
+python-dotenv

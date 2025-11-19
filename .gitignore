@@ -1,0 +1,18 @@
+# Environment
+.env
+
+# Model files
+models/*.pkl
+models/*.sav
+
+# Data files
+data/*.csv
+data/*.json
+data/*.pkl
+
+# Jupyter temporary
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc

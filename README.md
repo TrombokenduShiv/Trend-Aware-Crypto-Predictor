@@ -23,9 +23,9 @@ The system collects live data, preprocesses it, builds features, trains models, 
 * **Candlestick plotting with predicted paths**
 * Full modular pipeline:
 
-  1. `1_data_collector.ipynb`
-  2. `2_preprocessor_and_train.ipynb`
-  3. `3_main_predictor.ipynb`
+  1. `data_collector.ipynb`
+  2. `preprocessor_and_train.ipynb`
+  3. `main.ipynb`
 * `.env` support for all API keys
 * Clean folder structure, easy to extend
 
